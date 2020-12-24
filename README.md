@@ -35,3 +35,7 @@ The code present is heavily based on the following:
 https://gamedevacademy.org/complete-guide-to-procedural-level-generation-in-unity-part-1/ (up to part3)
 
 https://gamedevacademy.org/how-to-handle-huge-worlds-in-unity-part-1-deactivating-distant-regions-to-improve-performance/ (part 1 and 2)
+
+## Video
+
+[Perlin Noise Terrain Generation Demo](http://img.youtube.com/vi/wterF-PuARY/0.jpg)](https://youtu.be/wterF-PuARY)
