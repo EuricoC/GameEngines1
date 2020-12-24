@@ -10,3 +10,19 @@
 - **Name:** Eurico Carajote
 - **Student number:** C17442362
 - **Course:** TU856
+
+## Delivery
+
+This terrain generation was intended to be based on unity Terrain, but later changed to be a ground up implementation.
+
+It includes:
+-Chunking
+-LOD switches for distant chunks
+-Threading
+-Colliders
+
+Missing Features:
+-Texture application
+
+Known Bugs:
+-While preparing for texture and material application a bug that makes the planes in the positive coordinate of the user not to show up
