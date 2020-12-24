@@ -38,4 +38,4 @@ https://gamedevacademy.org/how-to-handle-huge-worlds-in-unity-part-1-deactivatin
 
 ## Video
 
-[Perlin Noise Terrain Generation Demo](http://img.youtube.com/vi/wterF-PuARY/0.jpg)](https://youtu.be/wterF-PuARY)
+[![Perlin Noise Terrain Generation Demo](http://img.youtube.com/vi/wterF-PuARY/0.jpg)](https://youtu.be/wterF-PuARY)
