@@ -26,3 +26,12 @@ Missing Features:
 
 Known Bugs:
 -While preparing for texture and material application a bug that makes the planes in the positive coordinate of the user not to show up
+
+
+The code present is heavily based on the following:
+
+[Procedural Landmass Generation](https://www.youtube.com/watch?v=wbpMiKiSKm8)
+
+https://gamedevacademy.org/complete-guide-to-procedural-level-generation-in-unity-part-1/ (up to part3)
+
+https://gamedevacademy.org/how-to-handle-huge-worlds-in-unity-part-1-deactivating-distant-regions-to-improve-performance/ (part 1 and 2)
